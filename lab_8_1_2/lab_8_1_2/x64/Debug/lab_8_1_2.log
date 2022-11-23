@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Student\ri\matskula\lab8\lab_8_1_2\lab_8_1_2\Source.cpp(87,17): warning C4305: '=': truncation from 'int' to 'char'
+C:\Student\ri\matskula\lab8\lab_8_1_2\lab_8_1_2\Source.cpp(87,13): warning C4309: '=': truncation of constant value
+C:\Student\ri\matskula\lab8\lab_8_1_2\lab_8_1_2\Source.cpp(89,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Student\ri\matskula\lab8\lab_8_1_2\lab_8_1_2\Source.cpp(38): warning C4715: 'Count3': not all control paths return a value
+C:\Student\ri\matskula\lab8\lab_8_1_2\lab_8_1_2\Source.cpp(14): warning C4715: 'Count': not all control paths return a value
+C:\Student\ri\matskula\lab8\lab_8_1_2\lab_8_1_2\Source.cpp(26): warning C4715: 'Count2': not all control paths return a value
+  lab_8_1_2.vcxproj -> C:\Student\ri\matskula\lab8\lab_8_1_2\x64\Debug\lab_8_1_2.exe
